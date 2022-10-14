@@ -1,0 +1,78 @@
+[
+  {
+    "id": 0,
+    "logo": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/148076/23/1218/501574/5eef608fEa27474bd/98817e5aed61cc06.jpg!q80.dpg",
+    "name": "爱必居 电脑椅家用懒人沙发靠背躺椅电竞椅单人沙发办公椅办公桌椅子 沙发椅",
+    "price": 391,
+    "type": [
+      "气质灰",
+      "湖蓝色",
+      "卡其色",
+      "柠檬黄"
+    ],
+    "size": "",
+    "rate": "00",
+    "jingDongMarket": true,
+    "promotions": "1件5折",
+    "jingDongWuLiu": "https://img12.360buyimg.com/img/s88x28_jfs/t1/87418/35/14054/2802/5e60dc4cEd8588b1e/0fc800d7ec49c0cd.png",
+    "jingDongZiYing": true,
+    "assess": "200万+评价"
+  },
+  {
+    "id": 1,
+    "logo": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/194154/31/28797/58668/6344ceceE95d0cc9a/2788d74f04697df7.jpg!q80.dpg",
+    "name": "SOO行李箱男万向轮拉杆箱耐磨抗摔26英寸A330旅行箱密码箱女商务黑色",
+    "price": 169,
+    "type": [
+      "黑色",
+      "银色",
+      "绿色"
+    ],
+    "size": [
+      "20英寸",
+      "24英寸",
+      "26英寸",
+      "28英寸"
+    ],
+    "rate": "00",
+    "jingDongMarket": true,
+    "promotions": "1件5折",
+    "jingDongWuLiu": "https://img12.360buyimg.com/img/s88x28_jfs/t1/87418/35/14054/2802/5e60dc4cEd8588b1e/0fc800d7ec49c0cd.png",
+    "jingDongZiYing": false,
+    "assess": "200+条评价"
+  },
+  {
+    "id": 2,
+    "logo": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/54217/20/20265/28349/63412027E3bddb699/8b8974bf7e494763.jpg!q80.dpg",
+    "name": "海澜优选 官方品牌羊毛呢大衣男中长款轻商务休闲男装秋冬季新款时尚呢子大衣男神风衣外套上衣服男",
+    "price": 349,
+    "size": [
+      "s",
+      "m",
+      "l",
+      "xl",
+      "xl"
+    ],
+    "type": "",
+    "rate": "00",
+    "jingDongMarket": true,
+    "promotions": "2件9折",
+    "jingDongWuLiu": "https://img12.360buyimg.com/img/s88x28_jfs/t1/87418/35/14054/2802/5e60dc4cEd8588b1e/0fc800d7ec49c0cd.png",
+    "jingDongZiYing": false,
+    "assess": "200+条评价"
+  },
+  {
+    "id": 3,
+    "logo": "https://img10.360buyimg.com/mobilecms/s360x360_jfs/t1/196603/4/29151/115580/6342aef8E8e0b2240/c19f57d9a8386e91.jpg!q70.dpg.webp",
+    "name": "云米410升家用十字对开门冰箱杀菌净味超大容量风冷无霜四开门保鲜变频WIFI控制家电租房自营BCD-410WMSAZ02A",
+    "price": 1999,
+    "size": "",
+    "type": "",
+    "rate": "00",
+    "jingDongMarket": true,
+    "promotions": "1件5折",
+    "jingDongWuLiu": "https://img12.360buyimg.com/img/s88x28_jfs/t1/87418/35/14054/2802/5e60dc4cEd8588b1e/0fc800d7ec49c0cd.png",
+    "jingDongZiYing": false,
+    "assess": "200+条评价"
+  }
+]

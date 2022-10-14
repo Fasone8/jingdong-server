@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "都某",
+    "user": "aa",
+    "numbers": "17139507005",
+    "address": "山东省青岛市市南区西镇莱阳路8号",
+    "goods": [
+      {
+        "logo": "https://img10.360buyimg.com/mobilecms/s360x360_jfs/t1/196603/4/29151/115580/6342aef8E8e0b2240/c19f57d9a8386e91.jpg!q70.dpg.webp",
+        "name": "云米410升家用十字对开门冰箱杀菌净味超大容量风冷无霜四开门保鲜变频WIFI控制家电租房自营BCD-410WMSAZ02A",
+        "price": 1999,
+        "rate": "00",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "万某",
+    "user": "cc",
+    "numbers": "13475960550",
+    "address": "山东省济南市市中区旅游路国华·东方美郡1号别墅",
+    "goods": [
+      {
+        "logo": "https://img10.360buyimg.com/mobilecms/s360x360_jfs/t1/196603/4/29151/115580/6342aef8E8e0b2240/c19f57d9a8386e91.jpg!q70.dpg.webp",
+        "name": "云米410升家用十字对开门冰箱杀菌净味超大容量风冷无霜四开门保鲜变频WIFI控制家电租房自营BCD-410WMSAZ02A",
+        "price": 1999,
+        "rate": "00",
+        "count": 1,
+        "checked": "false"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "程某",
+    "user": "bb",
+    "numbers": "15264385961",
+    "address": "山东省济南市市中区王官庄某桥洞下",
+    "goods": [
+      {
+        "logo": "https://img10.360buyimg.com/mobilecms/s360x360_jfs/t1/196603/4/29151/115580/6342aef8E8e0b2240/c19f57d9a8386e91.jpg!q70.dpg.webp",
+        "name": "云米410升家用十字对开门冰箱杀菌净味超大容量风冷无霜四开门保鲜变频WIFI控制家电租房自营BCD-410WMSAZ02A",
+        "price": 1999,
+        "rate": "00",
+        "count": 1
+      }
+    ]
+  }
+]
